@@ -8,7 +8,7 @@ public class Factorial {
 	}
 
 	private void dofunction() {
-		// TODO Auto-generated method stub
+		
 		int number=6;
 		int result=number;
 		while(number>1) {

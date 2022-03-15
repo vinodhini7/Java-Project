@@ -7,7 +7,7 @@ public class PrintNumbersReverse {
 	}
 
 	private void dofunction() {
-		// TODO Auto-generated method stub
+		
 		int number=10;
 		while(number>=0) {
 			System.out.println(number);
